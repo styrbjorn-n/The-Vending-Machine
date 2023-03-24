@@ -1,0 +1,15 @@
+C:\Users\mr_12\Documents\Dev\Projects\C# Vending Machine\Vending Machine\Vending Machine\bin\Debug\net6.0\Vending Machine.exe
+C:\Users\mr_12\Documents\Dev\Projects\C# Vending Machine\Vending Machine\Vending Machine\bin\Debug\net6.0\Vending Machine.deps.json
+C:\Users\mr_12\Documents\Dev\Projects\C# Vending Machine\Vending Machine\Vending Machine\bin\Debug\net6.0\Vending Machine.runtimeconfig.json
+C:\Users\mr_12\Documents\Dev\Projects\C# Vending Machine\Vending Machine\Vending Machine\bin\Debug\net6.0\Vending Machine.dll
+C:\Users\mr_12\Documents\Dev\Projects\C# Vending Machine\Vending Machine\Vending Machine\bin\Debug\net6.0\Vending Machine.pdb
+C:\Users\mr_12\Documents\Dev\Projects\C# Vending Machine\Vending Machine\Vending Machine\obj\Debug\net6.0\Vending Machine.csproj.AssemblyReference.cache
+C:\Users\mr_12\Documents\Dev\Projects\C# Vending Machine\Vending Machine\Vending Machine\obj\Debug\net6.0\Vending Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mr_12\Documents\Dev\Projects\C# Vending Machine\Vending Machine\Vending Machine\obj\Debug\net6.0\Vending Machine.AssemblyInfoInputs.cache
+C:\Users\mr_12\Documents\Dev\Projects\C# Vending Machine\Vending Machine\Vending Machine\obj\Debug\net6.0\Vending Machine.AssemblyInfo.cs
+C:\Users\mr_12\Documents\Dev\Projects\C# Vending Machine\Vending Machine\Vending Machine\obj\Debug\net6.0\Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\mr_12\Documents\Dev\Projects\C# Vending Machine\Vending Machine\Vending Machine\obj\Debug\net6.0\Vending Machine.dll
+C:\Users\mr_12\Documents\Dev\Projects\C# Vending Machine\Vending Machine\Vending Machine\obj\Debug\net6.0\refint\Vending Machine.dll
+C:\Users\mr_12\Documents\Dev\Projects\C# Vending Machine\Vending Machine\Vending Machine\obj\Debug\net6.0\Vending Machine.pdb
+C:\Users\mr_12\Documents\Dev\Projects\C# Vending Machine\Vending Machine\Vending Machine\obj\Debug\net6.0\Vending Machine.genruntimeconfig.cache
+C:\Users\mr_12\Documents\Dev\Projects\C# Vending Machine\Vending Machine\Vending Machine\obj\Debug\net6.0\ref\Vending Machine.dll
